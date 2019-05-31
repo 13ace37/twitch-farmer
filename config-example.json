@@ -1,0 +1,6 @@
+{
+    "client": {
+        "username":"username", 
+        "oauth":"oauth:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+    }
+}
